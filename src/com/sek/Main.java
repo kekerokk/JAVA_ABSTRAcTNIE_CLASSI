@@ -96,6 +96,6 @@ public class Main {
         Shape s1 = new Rectangle("RED",true,5,4);
         System.out.println(s1.toString());
         System.out.println(s1.GetColor());
-        Shape s2 = new Square("blue",true,3);
+        Shape s2 = new Square("blue",true,3); //1
     }
 }
